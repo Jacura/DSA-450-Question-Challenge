@@ -1,4 +1,4 @@
-//Program to Cyclically rotate an array by k
+//Program to find Maximum contiguous sum
 //
 //Code fails when all numbers are nagative
 
